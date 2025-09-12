@@ -1,0 +1,3 @@
+﻿  casinogame.cpp
+C:\BSUIR\typical exam tasks\casinogame\casinogame\casinogame.cpp(63,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  casinogame.vcxproj -> C:\BSUIR\typical exam tasks\casinogame\x64\Debug\casinogame.exe

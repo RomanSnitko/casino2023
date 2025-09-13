@@ -28,7 +28,7 @@ void spinAnimation() {
 void playSlots() {
     int bet;
     if (balance <= 0) {
-        cout << "У вас недостаточно средств для игры. Пополните баланс!" << endl;
+        cout << "У вас недостаточно средств для игры." << endl;
         return;
     }
 

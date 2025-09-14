@@ -49,7 +49,7 @@ void playSlots() {
     cout << "Результаты: [" << slot1 << "] [" << slot2 << "] [" << slot3 << "]" << endl;
 
     if (slot1 == slot2 && slot2 == slot3) {
-        cout << "Поздравляем! Джекпот! Вы выиграли " << bet * 20 << " монет!" << endl;
+        cout << "Вы выиграли " << bet * 20 << " монет!" << endl;
         balance += bet * 20;
     }
     else {

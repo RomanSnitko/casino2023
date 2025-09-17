@@ -53,7 +53,7 @@ void playSlots() {
         balance += bet * 20;
     }
     else {
-        cout << "Вы проиграли! Удачи в следующий раз!" << endl;
+        cout << "Вы проиграли! Удачи в некст раз!" << endl;
         balance -= bet;
     }
 }
